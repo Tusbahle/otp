@@ -4,6 +4,7 @@ Ogaysiis muhiim ah .
 Si uu project tigu kuugu shaqeeyo waa inuu computerkaaga kuuugu jiro JDK 8 - ilaa JDK 12 ama JRE 8 ilaa 12
 
 Sawirkani waxa uu muujinayaa guud ahaan qaybaha uu ka kooban yahay projectigu.
+
 ![Over view](https://github.com/Tusbahle/otp/blob/main/Capture1.PNG?raw=true "Image 1")
 
 Sawirkani waxa uu muujinayaa login function sida uu uqoran yahay . function kani waxa uu ku jiraa UserController Class ka.
